@@ -1,7 +1,7 @@
 {
-  "name": "crew-cab-whatsapp-webhook",
+  "name": "crew-cab-whatsapp-api",
   "version": "1.0.0",
-  "description": "WhatsApp Business webhook for Crew Cab",
+  "description": "WhatsApp Business API for Crew Cab with AI chatbot",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -14,5 +14,8 @@
   },
   "engines": {
     "node": ">=18.0.0"
-  }
+  },
+  "keywords": ["whatsapp", "api", "crew-cab", "chatbot", "emirates"],
+  "author": "Crew Cab",
+  "license": "MIT"
 }
