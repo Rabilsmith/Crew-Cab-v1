@@ -1,0 +1,1 @@
+{"success":false,"error":"Meta API credentials not configured","instructions":"Set META_ACCESS_TOKEN and META_PHONE_NUMBER_ID in Railway environment variables","phoneNumberId":"1116446593877934","hasAccessToken":false}
